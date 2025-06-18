@@ -28,7 +28,12 @@ Feature Engineering: Comprehensive analysis of churn predictors
 Business Recommendations: Data-driven retention strategies
 
 📊 Results
-ModelAccuracyPrecisionRecallF1-ScoreAUC-ROCRandom Forest96.0%95.8%96.2%96.0%1.00XGBoost94.2%94.0%94.5%94.2%0.98Logistic Regression91.5%91.2%91.8%91.5%0.95LSTM89.7%89.3%90.1%89.7%0.93
+Model             Accuracy  Precision  Recall F1-Score AUC-ROC
+Random Forest        96.0%    95.8%    96.2%    96.0%    1.00
+XGBoost              94.2%    94.0%    94.5%    94.2%    0.98
+Logistic Regression  91.5%    91.2%    91.8%    91.5%    0.95
+LSTM                 89.7%    89.3%    90.1%    89.7%    0.93
+
 🔍 Key Findings
 
 Contract Type: Most significant predictor of customer churn
